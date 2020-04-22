@@ -1,0 +1,96 @@
+header h1{
+    padding-bottom: 20px;
+        padding-top: 20px;
+        height: max-content;
+        margin-bottom: 0px;
+                text-align:center;
+    }
+    header{
+        
+        background: rgb(127, 238, 232);
+    }
+    .foot1 {
+       padding-top:1em;
+       padding-bottom:1em;
+        width: 100%;
+      background: #464948;
+      
+      }
+      li{
+          padding-bottom: 10px;
+      }
+      ul{
+        font-size: 18px;
+        margin-bottom: 25px;
+      }
+      p{
+        padding-top: 4px;
+        padding-right: 10px;
+        font-size: 18px;
+      }
+      footer p, a{
+        font-size: 24px;
+        color:#ffffff;
+       }
+      .foot1 a{
+          font-size: 30px;
+      }
+    
+    .main_cont{
+      min-height: calc(78vh);
+    }
+    h2 {
+        /* FONT-WEIGHT: 200; */
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    h5 {
+        
+        padding-bottom: 30px;
+    }
+    .rig{
+        padding-top:11px;
+    }
+    .col-ml-10.align-self-left {
+        padding-left: 30px;
+        padding-top: 11px;
+        padding-bottom: 15px;
+    }
+  
+    .but{
+        margin-top:15px;
+        font-size: 20px;
+        
+    }
+    img{
+        margin-top: -10px;
+    }
+    .but2{
+        font-size: 20px;
+        margin-left: 90px;
+    }
+    p.align-self-center.but2 {
+        margin-top: 31px;
+    }
+    label.btn.btn-outline-dark {
+        margin-bottom: 16px;
+    }
+
+    .zavd1{
+      /*  background-color: bisque;*/
+    }
+
+    .zavd2 input[type=number]{
+        width: 45px;
+    } 
+
+    hr {
+        border: none; /* Убираем границу */
+        background-color: #464948; /* Цвет линии */
+        color: #464948; /* Цвет линии для IE6-7 */
+        height: 3px; /* Толщина линии */
+       }
+
+       table {
+        margin-top: 20px;
+    }
